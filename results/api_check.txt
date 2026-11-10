@@ -1,0 +1,4 @@
+project root: uvicorn task4_transformers.app:app --reload
+
+api : http://127.0.0.1:8000/docs
+

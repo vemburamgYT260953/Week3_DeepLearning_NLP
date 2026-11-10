@@ -1,0 +1,134 @@
+{
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "training_time_seconds": 0.03288620000239462,
+    "inference_time_per_sample_seconds": 5.784777749795467e-05,
+    "top_words": {
+        "negative": [
+            {
+                "word": "not",
+                "weight": 2.1036
+            },
+            {
+                "word": "not use",
+                "weight": 1.6034
+            },
+            {
+                "word": "will not",
+                "weight": 1.6034
+            },
+            {
+                "word": "not recommend",
+                "weight": 1.5833
+            },
+            {
+                "word": "would not",
+                "weight": 1.5833
+            },
+            {
+                "word": "did not",
+                "weight": 0.99
+            },
+            {
+                "word": "did",
+                "weight": 0.99
+            },
+            {
+                "word": "it did",
+                "weight": 0.99
+            },
+            {
+                "word": "not meet",
+                "weight": 0.99
+            },
+            {
+                "word": "meet",
+                "weight": 0.99
+            }
+        ],
+        "neutral": [
+            {
+                "word": "was",
+                "weight": 1.4709
+            },
+            {
+                "word": "it was",
+                "weight": 1.4709
+            },
+            {
+                "word": "and it",
+                "weight": 1.4709
+            },
+            {
+                "word": "have",
+                "weight": 1.2409
+            },
+            {
+                "word": "acceptable overall",
+                "weight": 1.1116
+            },
+            {
+                "word": "acceptable",
+                "weight": 1.1116
+            },
+            {
+                "word": "was acceptable",
+                "weight": 1.1116
+            },
+            {
+                "word": "strong",
+                "weight": 0.9829
+            },
+            {
+                "word": "but do",
+                "weight": 0.8724
+            },
+            {
+                "word": "but",
+                "weight": 0.8724
+            }
+        ],
+        "positive": [
+            {
+                "word": "would recommend",
+                "weight": 1.72
+            },
+            {
+                "word": "will use",
+                "weight": 1.6957
+            },
+            {
+                "word": "exceeded",
+                "weight": 1.1501
+            },
+            {
+                "word": "it exceeded",
+                "weight": 1.1501
+            },
+            {
+                "word": "exceeded my",
+                "weight": 1.1501
+            },
+            {
+                "word": "the quality",
+                "weight": 0.7323
+            },
+            {
+                "word": "excellent",
+                "weight": 0.6098
+            },
+            {
+                "word": "the excellent",
+                "weight": 0.6098
+            },
+            {
+                "word": "excellent product",
+                "weight": 0.6098
+            },
+            {
+                "word": "the smooth",
+                "weight": 0.6097
+            }
+        ]
+    }
+}

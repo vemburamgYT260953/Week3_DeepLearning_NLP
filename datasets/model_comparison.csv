@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score
+TF-IDF + Logistic Regression,1.0,1.0,1.0,1.0
+TF-IDF + Naive Bayes,1.0,1.0,1.0,1.0
+Fine-tuned DistilBERT,1.0,1.0,1.0,1.0

@@ -1,0 +1,7 @@
+{
+    "accuracy": 0.9888888888888889,
+    "macro_f1": 0.9888885030596261,
+    "training_time_seconds": 0.10455199994612485,
+    "inference_time_per_sample_seconds": 2.1211110935029057e-06,
+    "embedding": "GloVe 50-dimensional"
+}

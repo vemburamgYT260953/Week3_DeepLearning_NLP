@@ -1,0 +1,13 @@
+{
+    "model": "DistilBERT",
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "training_time_seconds": 92.16945659997873,
+    "inference_time_per_sample_seconds": 0.00990965999986252,
+    "test_samples": 180,
+    "labels": [
+        "negative",
+        "neutral",
+        "positive"
+    ]
+}
