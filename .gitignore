@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+task4_transformers/checkpoints/
+task4_transformers/saved_models/
